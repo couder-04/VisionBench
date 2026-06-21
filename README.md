@@ -115,7 +115,7 @@ dataset/
 
 **Logistic Regression**
 
-![Logistic Regression Results](logistic.png)
+![Logistic Regression Results](images/logistic.png)
 
 ---
 
