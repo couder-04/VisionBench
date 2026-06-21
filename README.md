@@ -111,49 +111,41 @@ dataset/
 
 ---
 
-### 📉 Summaries & Confusion Matrices
+### 📉 Training Curves & Confusion Matrices
 
-<details>
-<summary><b>Logistic Regression</b></summary>
+**Logistic Regression**
 
-![Logistic Regression Results](images/logistic.png)
+![Logistic Regression Results](logistic.png)
 
-</details>
+---
 
-<details>
-<summary><b>Support Vector Machine (SVM)</b></summary>
+**Support Vector Machine (SVM)**
 
-![SVM Results](images/svm.png)
+![SVM Results](svm.png)
 
-</details>
+---
 
-<details>
-<summary><b>Custom CNN</b></summary>
+**Custom CNN**
 
-![Custom CNN Results](images/cnn.png)
+![Custom CNN Results](cnn.png)
 
-</details>
+---
 
-<details>
-<summary><b>ResNet-34 (Fine-Tuned)</b></summary>
+**ResNet-34 (Fine-Tuned)**
 
-![ResNet-34 Results](images/resnet.png)
+![ResNet-34 Results](resnet.png)
 
-</details>
+---
 
-<details>
-<summary><b>EfficientNet-B0 (Fine-Tuned)</b></summary>
+**EfficientNet-B0 (Fine-Tuned)**
 
-![Eff_Net_B0 Results](images/eff_net.png)
+![EfficientNet-B0 Results](images/eff_net.png)
 
-</details>
+---
 
-<details>
-<summary><b>ViT-Base/Patch16-224 (Fine-Tuned)</b></summary>
+**ViT-Base/Patch16-224 (Fine-Tuned)**
 
-![Vit-Base/Patch16 Results](images/vit.png)
-
-</details>
+![ViT-Base/Patch16-224 Results](images/vit.png)
 
 ---
 
