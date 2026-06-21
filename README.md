@@ -111,47 +111,47 @@ dataset/
 
 ---
 
-### 📉 Training Curves & Confusion Matrices
+### 📉 Summaries & Confusion Matrices
 
 <details>
 <summary><b>Logistic Regression</b></summary>
 
-![Logistic Regression Results](logistic.png)
+![Logistic Regression Results](images/logistic.png)
 
 </details>
 
 <details>
 <summary><b>Support Vector Machine (SVM)</b></summary>
 
-![SVM Results](svm.png)
+![SVM Results](images/svm.png)
 
 </details>
 
 <details>
 <summary><b>Custom CNN</b></summary>
 
-![Custom CNN Results](cnn.png)
+![Custom CNN Results](images/cnn.png)
 
 </details>
 
 <details>
 <summary><b>ResNet-34 (Fine-Tuned)</b></summary>
 
-![ResNet-34 Results](resnet.png)
+![ResNet-34 Results](images/resnet.png)
 
 </details>
 
 <details>
 <summary><b>EfficientNet-B0 (Fine-Tuned)</b></summary>
 
-![Eff_Net_B0 Results](eff_net.png)
+![Eff_Net_B0 Results](images/eff_net.png)
 
 </details>
 
 <details>
 <summary><b>ViT-Base/Patch16-224 (Fine-Tuned)</b></summary>
 
-![Vit-Base/Patch16 Results](vit.png)
+![Vit-Base/Patch16 Results](images/vit.png)
 
 </details>
 
