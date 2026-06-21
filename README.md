@@ -77,13 +77,11 @@ Binary image classification dataset:
 
 ```
 dataset/
-├── train/
-│   ├── cats/   🐱  (n images)
-│   └── dogs/   🐶  (n images)
-└── val/
-    ├── cats/
-    └── dogs/
+├── cats/   🐱  (n images)
+└── dogs/   🐶  (n images)
 ```
+
+> Train/validation split is performed programmatically inside each notebook.
 
 **Preprocessing pipeline:**
 
@@ -216,11 +214,11 @@ Place your dataset in the following structure (or update the paths inside the no
 
 ```
 dataset/
-├── train/cats/
-├── train/dogs/
-├── val/cats/
-└── val/dogs/
+├── cats/
+└── dogs/
 ```
+
+The train/validation split is handled automatically inside each notebook.
 
 ### 4. Run notebooks in order
 
