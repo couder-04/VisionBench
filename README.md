@@ -100,12 +100,12 @@ dataset/
 
 | Model | Accuracy | Precision | Recall | F1 Score | Params | Training Time |
 |-------|----------|-----------|--------|----------|--------|---------------|
-| Logistic Regression | ~63% | — | — | — | Low | Seconds |
-| SVM | ~67% | — | — | — | Low | Seconds |
-| Custom CNN | ~80% | — | — | — | ~500K | Minutes |
-| ResNet-34 (FT) | ~95%+ | — | — | — | 21.8M | ~30 min |
-| EfficientNet-B0 (FT) | ~96%+ | — | — | — | 5.3M | ~25 min |
-| ViT-Base/16 (FT) | ~97%+ | — | — | — | 86M | ~45 min |
+| Logistic Regression | 61% | 0.61 | 0.60 | 0.61 | 12k | 5min |
+| SVM | 61% | 0.62 | 0.59 | 0.61 | 12k | 10min |
+| Custom CNN | 72% |0.75 | 0.67 | 0.71 | 93K | 20min |
+| ResNet-34 (FT) | 98% | 0.98 | 0.98 |0.98— | 21.8M | 30 min |
+| EfficientNet-B0 (FT) | 96% | 0.97 | 0.95 | 0.96 | 5.3M | 31 min |
+| ViT-Base/16 (FT) | 99%+ | 0.99 | 0.99 | 0.99 | 86M | 2hrs |
 
 > 📝 Fill in the exact values from your training runs. Placeholder estimates shown above.
 
